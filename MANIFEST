@@ -1,0 +1,5 @@
+MANIFEST
+LICENSE
+Makefile.PL
+lib/Text/Fountain.pm
+t/001_load.t
